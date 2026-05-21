@@ -58,8 +58,8 @@ ENVIROGUARD is an IoT-based smart waste management system designed to improve hy
 8. Alerts are sent through Blynk IoT
 
 ## Schematic Diagram
-![Shematic Diagram](schematic1.jpg)
-![Shematic Diagram](schematic2.jpg)
+![Shematic Diagram](Schematic1.jpg)
+![Shematic Diagram](Schematic2.jpg)
 ## Prototype
 ![Prototype](prototype.jpg)
 
