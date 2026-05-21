@@ -2,7 +2,7 @@
 
 #define BLYNK_TEMPLATE_NAME "ENVIRO GUARD MONITOR"
 
-#define BLYNK_AUTH_TOKEN "upOlM1m39eQtL96TH7Mb2tWT7mKPa5KD" 
+#define BLYNK_AUTH_TOKEN "YOUR TOKEN" 
 
 #define BLYNK_PRINT Serial
 
@@ -16,8 +16,8 @@
 
 char auth[] = BLYNK_AUTH_TOKEN;
 
-char ssid[] = "GNXS-2.4G-55E9F0"; // Replace with your WiFi name
-char pass[] = "8547122440@"; // Replace with your WiFi password
+char ssid[] = "YOUR WIFI NAME"; // Replace with your WiFi name
+char pass[] = "YOUR PASSWORD"; // Replace with your WiFi password
 
 // Pins for Dry Waste 
 
