@@ -61,7 +61,7 @@ ENVIROGUARD is an IoT-based smart waste management system designed to improve hy
 ![Shematic Diagram](Schematic1.jpg)
 ![Shematic Diagram](Schematic2.jpg)
 ## Prototype
-![Prototype](prototype.jpg)
+![Prototype](Prototype.jpg)
 
 ## Software Implementation
 The system is programmed using Arduino IDE. The ESP8266 module communicates with the Blynk IoT platform for real-time monitoring and notifications.
